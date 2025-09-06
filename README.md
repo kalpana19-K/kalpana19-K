@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm Kalpana Biswakalyani!
 
 I'm a passionate **Backend Engineer** who enjoys building scalable, maintainable, and efficient backend systems using Java and Spring Boot.
 
@@ -19,18 +19,19 @@ I'm a passionate **Backend Engineer** who enjoys building scalable, maintainable
 ## 🚀 Projects
 
 ### 📌 [Your Project 1]
-> A brief description of the project and its purpose.
+> A scalable backend system for managing insurance policies, customer onboarding, and claims processing for Axis Maxlifeinsurance .
 
-- 🔧 Stack: Java, Spring Boot, MySQL
-- Key Features: [JWT auth, CRUD APIs, layered architecture...]
-- 🔗 [View Repository](#)
+- 🔧 Tech Stack:Java, Spring Boot, Spring Data JPA, MySQL, MongoDB, REST APIs, Jenkins, Postman
+- Highlights: This project implements a microservices-based architecture using Java Spring Boot, with modules for:
 
-### 📌 [Your Project 2]
-> A short summary of another cool backend project.
+🧾 Policy Management: Create, update, and track insurance policies
 
-- 🔧 Stack: Java, Spring Boot, MongoDB
-- Highlights: [REST API, data validation, logging, Swagger docs]
-- 🔗 [View Repository](#)
+👥 Customer Onboarding: Secure registration and authentication
+
+📄 Claims Processing: Submit and verify insurance claims
+
+📊 Admin Dashboard: View reports and manage users (admin only)
+
 
 ---
 
@@ -44,9 +45,9 @@ I'm a passionate **Backend Engineer** who enjoys building scalable, maintainable
 
 ## 📫 Connect with Me
 
-- 💼 [LinkedIn](#)  
-- 🐙 GitHub: [github.com/your-username](https://github.com/your-username)
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
+- 💼 www.linkedin.com/in/kalpana-biswakalyani
+- 🐙 GitHub: kalpana19-K/kalpana19-K
+- 📧 Email: kalpana.biswakalyani@gmail.com
 
 ---
 
