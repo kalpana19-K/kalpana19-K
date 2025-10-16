@@ -45,7 +45,7 @@ I'm a passionate **Backend Engineer** who enjoys building scalable, maintainable
 
 ## 📫 Connect with Me
 
-- 💼 www.linkedin.com/in/kalpana-biswakalyani
+- 💼https://www.linkedin.com/in/kalpanabiswakalyani1904/
 - 🐙 GitHub: kalpana19-K/kalpana19-K
 - 📧 Email: kalpana.biswakalyani@gmail.com
 
