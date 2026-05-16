@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Kalpana Biswakalyani!
 
-I'm a passionate **Backend Engineer** who enjoys building scalable, maintainable, and efficient backend systems using Java and Spring Boot.
+I'm a passionate **Full Stack Engineer** who enjoys building scalable, maintainable, and efficient backend systems using Java and Spring Boot.
 
 ---
 
